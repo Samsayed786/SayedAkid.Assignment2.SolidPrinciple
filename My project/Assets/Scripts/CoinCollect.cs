@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CoinCollect : Collectable, IInteractable
+public class CoinCollect : Collectable
 {
     public int amount = 10;
     
@@ -11,8 +11,9 @@ public class CoinCollect : Collectable, IInteractable
         Debug.Log("Coin ");
         // call the collectable being collected 
         player.IncreaseScore(amount);
-      
-        
+        Destroy(gameObject);
+
+
     }
 
    }

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\s.hussain710\\Desktop\\Game Programming 3\\SayedAkid.Assignment2.SolidPrinciple\\My project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\s.hussain710\\Desktop\\Game Programming 3\\SayedAkid.Assignment2.SolidPrinciple\\My project\\assets\\scripts\\pstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\s.hussain710\\Desktop\\Game Programming 3\\SayedAkid.Assignment2.SolidPrinciple\\My project\\assets\\scripts\\collectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\s.hussain710\\desktop\\game programming 3\\sayedakid.assignment2.solidprinciple\\my project\\assets\\scripts\\collectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\s.hussain710\\Desktop\\Game Programming 3\\SayedAkid.Assignment2.SolidPrinciple\\My project\\assets\\scripts\\trap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\s.hussain710\\Desktop\\Game Programming 3\\SayedAkid.Assignment2.SolidPrinciple\\My project\\assets\\scripts\\healthgain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +19,16 @@
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coincollect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\s.hussain710\\desktop\\game programming 3\\sayedakid.assignment2.solidprinciple\\my project\\assets\\scripts\\trap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\s.hussain710\\desktop\\game programming 3\\sayedakid.assignment2.solidprinciple\\my project\\assets\\scripts\\pstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\s.hussain710\\desktop\\game programming 3\\sayedakid.assignment2.solidprinciple\\my project\\assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\s.hussain710\\desktop\\game programming 3\\sayedakid.assignment2.solidprinciple\\my project\\assets\\scripts\\switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\s.hussain710\\Desktop\\Game Programming 3\\SayedAkid.Assignment2.SolidPrinciple\\My project\\assets\\scripts\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +46,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Trap.cs",
+              "DocumentMoniker": "C:\\Users\\s.hussain710\\Desktop\\Game Programming 3\\SayedAkid.Assignment2.SolidPrinciple\\My project\\Assets\\Scripts\\Trap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Trap.cs",
+              "ToolTip": "C:\\Users\\s.hussain710\\Desktop\\Game Programming 3\\SayedAkid.Assignment2.SolidPrinciple\\My project\\Assets\\Scripts\\Trap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Trap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:23:27.006Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Door.cs",
+              "DocumentMoniker": "C:\\Users\\s.hussain710\\Desktop\\Game Programming 3\\SayedAkid.Assignment2.SolidPrinciple\\My project\\Assets\\Scripts\\Door.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Door.cs",
+              "ToolTip": "C:\\Users\\s.hussain710\\Desktop\\Game Programming 3\\SayedAkid.Assignment2.SolidPrinciple\\My project\\Assets\\Scripts\\Door.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Door.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:34:58.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Switch.cs",
+              "DocumentMoniker": "C:\\Users\\s.hussain710\\Desktop\\Game Programming 3\\SayedAkid.Assignment2.SolidPrinciple\\My project\\Assets\\Scripts\\Switch.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Switch.cs",
+              "ToolTip": "C:\\Users\\s.hussain710\\Desktop\\Game Programming 3\\SayedAkid.Assignment2.SolidPrinciple\\My project\\Assets\\Scripts\\Switch.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Switch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:34:47.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Collectable.cs",
               "DocumentMoniker": "C:\\Users\\s.hussain710\\Desktop\\Game Programming 3\\SayedAkid.Assignment2.SolidPrinciple\\My project\\Assets\\Scripts\\Collectable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Collectable.cs",
@@ -55,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "PStats.cs",
               "DocumentMoniker": "C:\\Users\\s.hussain710\\Desktop\\Game Programming 3\\SayedAkid.Assignment2.SolidPrinciple\\My project\\Assets\\Scripts\\PStats.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PStats.cs",
@@ -68,26 +116,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Trap.cs",
-              "DocumentMoniker": "C:\\Users\\s.hussain710\\Desktop\\Game Programming 3\\SayedAkid.Assignment2.SolidPrinciple\\My project\\Assets\\Scripts\\Trap.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Trap.cs",
-              "ToolTip": "C:\\Users\\s.hussain710\\Desktop\\Game Programming 3\\SayedAkid.Assignment2.SolidPrinciple\\My project\\Assets\\Scripts\\Trap.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Trap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T02:23:27.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "HealthGain.cs",
               "DocumentMoniker": "C:\\Users\\s.hussain710\\Desktop\\Game Programming 3\\SayedAkid.Assignment2.SolidPrinciple\\My project\\Assets\\Scripts\\HealthGain.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HealthGain.cs",
               "ToolTip": "C:\\Users\\s.hussain710\\Desktop\\Game Programming 3\\SayedAkid.Assignment2.SolidPrinciple\\My project\\Assets\\Scripts\\HealthGain.cs",
               "RelativeToolTip": "Assets\\Scripts\\HealthGain.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T02:17:24.802Z",
               "EditorCaption": ""
@@ -100,14 +135,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\CoinCollect.cs",
               "ToolTip": "C:\\Users\\s.hussain710\\Desktop\\Game Programming 3\\SayedAkid.Assignment2.SolidPrinciple\\My project\\Assets\\Scripts\\CoinCollect.cs",
               "RelativeToolTip": "Assets\\Scripts\\CoinCollect.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T02:01:53.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IInteractable.cs",
               "DocumentMoniker": "C:\\Users\\s.hussain710\\Desktop\\Game Programming 3\\SayedAkid.Assignment2.SolidPrinciple\\My project\\Assets\\Scripts\\IInteractable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\IInteractable.cs",
@@ -115,12 +150,11 @@
               "RelativeToolTip": "Assets\\Scripts\\IInteractable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T02:05:26.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T02:05:26.057Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Users\\s.hussain710\\Desktop\\Game Programming 3\\SayedAkid.Assignment2.SolidPrinciple\\My project\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
