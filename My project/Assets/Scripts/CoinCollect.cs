@@ -2,21 +2,17 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CoinCollect : MonoBehaviour, IInteractable
+public class CoinCollect : Collectable, IInteractable
 {
-
-    public void Interact(GameObject player)
+    public int amount = 10;
+    
+    public override void Interact(PStats player)
     {
-        Debug.Log("Coin collected");
-        Destroy(gameObject);
+        Debug.Log("Coin ");
+        // call the collectable being collected 
+        player.IncreaseScore(amount);
+      
+        
     }
 
-    void OnTriggerEnter(Collider other)
-    {
-        if (other.CompareTag("Player"))
-        {
-            Interact(other.gameObject);
-        } 
-     }
-
-    }
+   }

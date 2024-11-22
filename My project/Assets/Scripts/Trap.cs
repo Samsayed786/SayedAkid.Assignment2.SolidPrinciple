@@ -2,20 +2,17 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Trap : MonoBehaviour, IInteractable
+public class Trap : Collectable, IInteractable
 {
-    public void Interact(GameObject player)
+    public int amount = 10;
+    public override void  Interact(PStats player)
     {
         Debug.Log("Health Decreased");
-        Destroy(gameObject);
+        //call player health take damage 
+        player.DecreaseHealth(amount);
+       
     }
 
-    void OnTriggerEnter(Collider other)
-    {
-        if (other.CompareTag("Player"))
-        {
-            Interact(other.gameObject);
-        }
-    }
+   
 
 }
